@@ -1,0 +1,28 @@
+E-PORTOFOLIO — RUANG REFLEKSI
+
+CARA MEMBUKA
+1. Ekstrak seluruh isi ZIP ke satu folder.
+2. Buka index.html di browser (Chrome, Edge, atau Firefox).
+3. Untuk hosting, unggah index.html, style.css, dan app.js ke hosting statis.
+
+HALAMAN
+Home, Profile, Analisis Artefak, Refleksi, Model Guru, Filosofi, Lampiran.
+
+MENAMBAHKAN MEDIA
+Buka Analisis Artefak atau Lampiran > Tambah artefak/lampiran.
+Isi judul, tempel tautan Google Drive atau YouTube, lalu simpan.
+File Drive perlu izin akses yang sesuai. Video YouTube harus mengizinkan penyematan.
+Preview memerlukan koneksi internet.
+
+MENGEDIT ISI
+Gunakan Edit isi halaman atau Kelola portofolio.
+Nama dan beberapa narasi masih berupa isian awal untuk Anda sesuaikan.
+Perubahan melalui editor tersimpan di browser/perangkat yang digunakan.
+Gunakan Ekspor cadangan dan Impor cadangan untuk memindahkan isinya.
+Perubahan editor belum tersinkron ke perangkat atau pengunjung lain.
+Untuk mengubah isi awal yang dilihat semua pengunjung, edit objek defaults di app.js dan unggah ulang.
+
+FILE
+index.html — kerangka halaman
+style.css — tampilan dan responsivitas
+app.js — isi awal, navigasi, editor, dan preview media
